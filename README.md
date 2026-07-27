@@ -1,4 +1,4 @@
-2nd Year MPP Student @ Berkeley
+RSA @ MIT Poli Sci
 
 Statistical Languages: R, Python
 
